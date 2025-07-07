@@ -29,7 +29,7 @@ Strain datasets are provided for the **torn mesh**, including:
 
 Strain filenames follow the format:
 
-<TIMESTAMP><StrainType>_<XY>.xdmf
+TIMESTAMPStrainType_XY.xdmf
 
 Where:
 - `X` = Type of strain component (normal or shear)
