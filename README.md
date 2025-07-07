@@ -32,14 +32,12 @@ Strain filenames follow the format:
 TIMESTAMPStrainType_XY.xdmf
 
 Where:
-- `X` = Type of strain component (normal or shear)
+- `X` = Amount of experimental elongation
   - `1` = 1 mm
   - `2` = 2 mm
 - `Y` = Condition  
   - `1` = Intact
   - `2` = Torn
-
-The first index represents the amount of experimental elongation. The second index represent the condition of the tendon.
 
 ### Example:
 - `20231107LagrangeNormal_12.xdmf` contains **normal strain** components for a **1 mm stretch in the torn condition**.
