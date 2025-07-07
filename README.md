@@ -20,7 +20,7 @@ Displacement fields are available for both **intact** and **torn** meshes.
 
 ## 💠 Strain Data
 
-Strain datasets are provided for the **torn condition**, including:
+Strain datasets are provided for the **torn mesh**, including:
 - `LagrangeNormal`: Normal strain components of the Lagrangian strain tensor (E₁₁, E₂₂, E₃₃)
 - `LagrangeShear`: Shear strain components of the Lagrangian strain tensor (E₁₂, E₁₃, E₂₃)
 - `maxShear`: Maximum shear strain
