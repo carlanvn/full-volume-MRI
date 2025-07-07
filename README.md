@@ -4,7 +4,7 @@ This repository provides **sample full volume magnetic resonance imaging (MRI) d
 
 ## 📁 Folder Structure
 
-The repository includes two folders:
+The repository includes two folders inside TendonMRIDatasets:
 - `20231012/`
 - `20231107/`
 
