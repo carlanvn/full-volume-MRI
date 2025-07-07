@@ -1,6 +1,6 @@
 # full-volume-MRI
 
-This repository provides **sample full-volume magnetic resonance imaging (MRI) datasets** of **displacements** and **Lagrangian strains** for **intact and torn ovine rotator cuff tendons**, viewable in [ParaView](https://www.paraview.org/).
+This repository provides **sample full volume magnetic resonance imaging (MRI) datasets** of **displacements** and **Lagrangian strains** for **intact and torn ovine rotator cuff tendons**, viewable in [ParaView](https://www.paraview.org/).
 
 ## 📁 Folder Structure
 
@@ -46,4 +46,12 @@ The first index represents the amount of experimental elongation. The second ind
 
 ---
 
-Feel free to open an issue if you have questions or need guidance using the data.
+## 📚 How to Cite
+
+If you use these datasets, please cite the following preprint:
+
+> Villacís Núñez, C. N., Scheven, U., Bedi, A., Arruda, E. M. (2025). *Tear Growth Mechanisms in High-Grade Bursal-Sided Partial Thickness Tears in the Rotator Cuff Measured with Full Volume Methods*. Preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202182
+
+This citation will be updated upon publication in a peer-reviewed journal.
+
+---
